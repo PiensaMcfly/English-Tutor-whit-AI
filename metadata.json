@@ -1,0 +1,7 @@
+{
+  "name": "Mendo AI English Tutor",
+  "description": "An application to learn English with personalized lessons and a practice chat, powered by an AI expert. Users can specify vocabulary, topics, and their proficiency level to generate custom-tailored grammar explanations, exercises, dialogues, and paragraphs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
